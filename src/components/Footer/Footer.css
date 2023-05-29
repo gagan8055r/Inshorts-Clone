@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.footer{
+    background-color: #323232;
+    color: antiquewhite;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
